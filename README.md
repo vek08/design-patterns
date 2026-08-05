@@ -1,1 +1,3 @@
 # lld
+
+learning lld 
