@@ -1,5 +1,4 @@
 # lld
 
-learning lld 
-Pull Shark test #1 🦈
-Pull Shark test #2 🦈
+learning design-patterns
+
