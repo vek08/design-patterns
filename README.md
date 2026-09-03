@@ -1,3 +1,4 @@
 # lld
 
-learning lld 
+learning design-patterns
+

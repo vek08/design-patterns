@@ -58,6 +58,4 @@ public class BurgerMeal {
             return new BurgerMeal(this);
         }
     }
-
-
 }
