@@ -1,0 +1,3 @@
+interface Format{
+    void exportData();
+}
