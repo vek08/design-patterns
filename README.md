@@ -1,4 +1,4 @@
 # lld
 
-learning design-patterns
+learning design-patterns, mastery is the mission
 
